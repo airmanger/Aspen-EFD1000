@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pluginstrument>
+    <aircraft>Generic</aircraft>
+    <author>LNRalph</author>
+    <compatibleFSX>true</compatibleFSX>
+    <compatibleP3D>true</compatibleP3D>
+    <compatibleXPL>true</compatibleXPL>
+    <configVersion>1</configVersion>
+    <description>This instrument is obviously based on the Aspen EFD 1000. But not all the real functions are implemented. There might be some bugs or things missing, especially in the navigational part, and especially with FSX/P3D, also due to the shortcomings of FSX/P3D compared to X-Plane.
+
+A second page with a map is planned. But first I want to optimize the current page.
+
+You can help improving this instrument by sending us your comments.</description>
+    <pluginInterfaceVersion>100</pluginInterfaceVersion>
+    <prefHeight>1280</prefHeight>
+    <prefWidth>800</prefWidth>
+    <type>Aspen EFD1000</type>
+    <uuid>5ae2abaf-79ad-4751-b230-4692964de910</uuid>
+    <version>100</version>
+</pluginstrument>
