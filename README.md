@@ -1,2 +1,3 @@
 # Aspen-EFD1000
-This instrument is obviously based on the Aspen EFD 1000. But not all the real functions are implemented. There might be some bugs or things missing, especially in the navigational part, and especially with FSX/P3D, also due to the shortcomings of FSX/P3D compared to X-Plane.  A second page with a map is planned. But first I want to optimize the current page.  You can help improving this instrument by sending us your comments.
+Air Manager Aspen EFD1000 project for Air Rietveld's Air Manager. More information at: http://www.airrietveld.nl 
+Project leader: Ralph Rietveld
